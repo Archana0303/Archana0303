@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any end to end Data Science Project
 - 📫 How to reach me toarchana978@gmail.com
 
-- ⚡ Fun fact: ...
+
 
 <!---
 Archana0303/Archana0303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
